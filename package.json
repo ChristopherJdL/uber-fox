@@ -1,0 +1,14 @@
+{
+  "name": "uber-fox",
+  "module": "index.ts",
+  "type": "module",
+  "scripts": {
+    "main" : "bun run src/index.ts"
+  },
+  "devDependencies": {
+    "bun-types": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
